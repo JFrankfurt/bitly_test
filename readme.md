@@ -1,4 +1,4 @@
-# Bitly App Engineering Internship Test
+# Bitly App Engineering Test
 ###### SUBMITTED BY: Jordan Frankfurt
 ###### DATE: March 23rd, 2016
 #
